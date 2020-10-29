@@ -13,8 +13,19 @@ All my fav packages and features are setted and configured in the code.
     
 - ### Styled Components
     CSS-in-JS tool that bridges the gap between components and styling.\
+    Set a `ThemeProvider` with a custom theme to create in `src/theming/`
     Info and documentation [here](https://styled-components.com/docs).
+      
+- ### React Router DOM
+    Declarative routing for React.\
+    Set up only a main route in `src/routing/` that display `App` component.\
+    Info and documentation [here](https://reactrouter.com/web/guides/quick-start).
        
+- ### React Redux
+   Predictable state container for JavaScript apps.\
+   Set up a template of store, reducers, actions and middleware in `src/redux/` and provided store in all app.\
+   Info and documentation [here](https://redux.js.org/introduction/getting-started).
+              
 - ### PropTypes
     Typechecker for the props for a React component.\
     List of possible types [here](https://reactjs.org/docs/typechecking-with-proptypes.html#proptypes).
