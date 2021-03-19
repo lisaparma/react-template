@@ -8,12 +8,12 @@ All my fav packages and features are setted and configured in the code.
     Deploy react app on github page.
     1. Active github page on repo settings.
     2. Set real repo homepage on package.json
-    2. Run `npm run predeploy` and `npm run deploy` to deploy app.
+    2. Run `npm run predeploy` and `npm run deploy` to deploy app. \
     See [documentation](https://lodash.com/docs/4.17.15) for more information.
     
 - ### Styled Components
     CSS-in-JS tool that bridges the gap between components and styling.\
-    Set a `ThemeProvider` with a custom theme to create in `src/theming/`
+    Set a `ThemeProvider` with a custom theme to create in `src/theming/`\
     Info and documentation [here](https://styled-components.com/docs).
       
 - ### React Router DOM
@@ -33,6 +33,13 @@ All my fav packages and features are setted and configured in the code.
 - ### Lodash
     A JavaScript utility library delivering modularity, performance & extras.\
     Info and documentation [here](https://lodash.com/docs/4.17.15).
+  
+- ### i18n
+  Translations system fro react. \
+  Use `src/ranslations/` to add translations strings.
+  
+- ### FontAwesome Icons
+  Beautiful free icons available [here](https://fontawesome.com/icons?d=gallery&p=1&m=free)
             
 ## Available Scripts
 You can run all *create-react-app* scripts:
