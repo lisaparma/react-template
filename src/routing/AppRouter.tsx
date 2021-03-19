@@ -1,12 +1,12 @@
 import { BrowserRouter, Route } from "react-router-dom";
 
-import App from "../App";
 import { PATHS } from "./paths";
+import App from "../components/App";
 
 export function AppRouter() {
-  return [
+  return (
     <BrowserRouter>
       <Route exact path={PATHS.MAIN} key="main" component={App} />
     </BrowserRouter>
-  ];
+  );
 }

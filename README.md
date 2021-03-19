@@ -1,7 +1,7 @@
 # React template
 
 This is my template for react applications.
-All my fav packages and features are setted and configured in the code.
+All my fav packages and features are set and configured in the code.
 
 ## Available features
 - ### Github Pages
@@ -35,12 +35,14 @@ All my fav packages and features are setted and configured in the code.
     Info and documentation [here](https://lodash.com/docs/4.17.15).
   
 - ### i18n
-  Translations system fro react. \
+  Translations system for react. \
   Use `src/ranslations/` to add translations strings.
   
 - ### FontAwesome Icons
   Beautiful free icons available [here](https://fontawesome.com/icons?d=gallery&p=1&m=free)
-            
+
+- ### TypeScript
+
 ## Available Scripts
 You can run all *create-react-app* scripts:
 

@@ -1,3 +1,4 @@
+import React from "react";
 import ReactDOM from 'react-dom';
 import { ThemeProvider } from "styled-components";
 import { Provider as ReduxProvider } from 'react-redux';
